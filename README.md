@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Chuck Berry here.  I'm getting to know node.js and other parts of the MEAN stack. 
